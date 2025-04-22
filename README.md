@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Om Bhamre👋</h2>
 <p align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+ 😊;  +Web+Developer+👨🏻‍💻+,+Machine Learning🤖"/></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CC3EB&center=true&width=435&lines=Web+Devloper;AI%2FMl+Enthusiast;Reader" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <img align="middle" alt="GIF" src="https://i.redd.it/bpxxqqvps4h91.gif" />
