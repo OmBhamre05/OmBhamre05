@@ -8,7 +8,7 @@
 
 I am a tech enthusiast skilled in C++, Python, and Java, with experience in frameworks like ExpressJs , TensorFlow, and Flask.
 
-My interests include Data Structures, Algorithms, Android Development, Machine Learning, and Backend Development. I enjoy solving complex problems and contributing to innovative solutions.
+My interests include Data Structures, Algorithms, Machine Learning, LLMs,  and Full Stack Development. I enjoy solving complex problems and contributing to innovative solutions.
 
 
 #### A little more about me
